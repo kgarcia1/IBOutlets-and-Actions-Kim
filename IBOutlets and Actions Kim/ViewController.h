@@ -14,7 +14,7 @@
 @property (nonatomic,weak) IBOutlet UILabel *lastNameLabel;
 @property (nonatomic,weak) IBOutlet UITextField *firstNameTextField;
 @property (nonatomic,weak) IBOutlet UITextField *lastNameTextField;
-
+@property (nonatomic,weak) IBOutlet UILabel *middleNameLabel;
 
 @end
 
